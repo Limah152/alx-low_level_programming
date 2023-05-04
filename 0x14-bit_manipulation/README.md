@@ -1,1 +1,1 @@
-this readme is for 0x14-bit_manipulation project
+This is the readme file for 0x14-bit_manipulation project
